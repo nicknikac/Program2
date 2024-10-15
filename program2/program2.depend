@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1729025180 source:c:\users\nick\documents\fall '24\cs 250\programs\program2\src\athlete.cpp
+	"Athlete.h"
+
+1729026840 c:\users\nick\documents\fall '24\cs 250\programs\program2\include\athlete.h
+
+1729025212 source:c:\users\nick\documents\fall '24\cs 250\programs\program2\src\tennis.cpp
+	"Tennis.h"
+
+1729025201 c:\users\nick\documents\fall '24\cs 250\programs\program2\include\tennis.h
+	"Athlete.h"
+
+1729021172 source:c:\users\nick\documents\fall '24\cs 250\programs\program2\src\volleyball.cpp
+	"VolleyBall.h"
+
+1729026840 c:\users\nick\documents\fall '24\cs 250\programs\program2\include\volleyball.h
+	"Athlete.h"
+	<string>
+
+1729021298 source:c:\users\nick\documents\fall '24\cs 250\programs\program2\main.cpp
+	<iostream>
+	"Athlete.h"
+	"Volleyball.h"
+	"Tennis.h"
+
